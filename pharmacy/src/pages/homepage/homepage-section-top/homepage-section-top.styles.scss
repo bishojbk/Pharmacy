@@ -47,6 +47,8 @@
         font-weight: normal;
       }
       .link {
+        padding-top: 35px;
+
         @keyframes moveUpDown {
           0% {
             transform: translateY(0);

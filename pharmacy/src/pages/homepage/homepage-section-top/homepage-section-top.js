@@ -5,7 +5,6 @@ import "./homepage-section-top.styles.scss";
 const SectionTop = () => {
   return (
     <div>
-      {" "}
       <div className="homepage-section container-fluid">
         <div className="row">
           <div className="col-lg-6 homepage-section_left">
